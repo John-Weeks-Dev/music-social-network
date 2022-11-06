@@ -1,5 +1,9 @@
 # Music Social Network
 
+## Youtube tutorial series
+
+Click here -> https://www.youtube.com/watch?v=35mFhoRb0BQ&list=PL3pX4NAc7vJt_j7S-AefxxefrotByyite
+
 ## Demonstration Video
 
 https://user-images.githubusercontent.com/108229029/194870186-6bcc9183-a8f0-410e-bd26-5775274459e1.mp4
