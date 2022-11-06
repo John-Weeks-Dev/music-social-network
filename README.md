@@ -25,7 +25,7 @@ Import the new directory and run the project.
 <p float="left">
     <img width="235" alt="Screenshot 2022-10-10 at 20 18 12" src="https://user-images.githubusercontent.com/108229029/194875546-c027d538-e63f-4d08-8d05-9867896f9108.png">
     <img width="370" alt="Screenshot 2022-10-10 at 20 20 23" src="https://user-images.githubusercontent.com/108229029/194876302-2e29db71-d3b8-441b-ac38-583e86b2ed21.png">
-      <img width="355" alt="Screenshot 2022-10-10 at 20 18 12" src="https://user-images.githubusercontent.com/108229029/194877355-07b8a525-5fad-4a0c-a567-8a31e36c30b9.png">
+      <img width="350" alt="Screenshot 2022-10-10 at 20 18 12" src="https://user-images.githubusercontent.com/108229029/194877355-07b8a525-5fad-4a0c-a567-8a31e36c30b9.png">
 </p>
 
 ## Posts
