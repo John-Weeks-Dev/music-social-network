@@ -17,13 +17,21 @@ https://user-images.githubusercontent.com/108229029/194870186-6bcc9183-a8f0-410e
 
 ## Setup
 
-Pull the project then in the terminal go to the directory and use the command:
-
+Clone the repository
 ```
-vue ui
+git clone https://github.com/John-Weeks-Dev/music-social-network.git
 ```
 
-Import the new directory and run the project.
+Run these commands
+```
+cd music-social-network
+
+npm i
+
+npm run serve
+```
+
+You should be good to go!
 
 # Application images/pages
 
