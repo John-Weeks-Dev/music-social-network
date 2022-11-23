@@ -17,6 +17,9 @@ https://user-images.githubusercontent.com/108229029/194870186-6bcc9183-a8f0-410e
 
 ## Setup
 
+### Note
+For this frontend to work you'll need the backend/api section -> https://github.com/John-Weeks-Dev/music-social-network-api
+
 Clone the repository
 ```
 git clone https://github.com/John-Weeks-Dev/music-social-network.git
