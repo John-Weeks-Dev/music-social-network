@@ -4,7 +4,7 @@
 
 If you'd like a step by step guide on how to build this just **CLICK THE IMAGE BELOW**
 
-[![GO TO JOHN WEEKS DEV TUTORIAL VIDEOS](https://user-images.githubusercontent.com/108229029/203507483-ff8d6ef8-7e33-4223-a4a6-f9d734dde0f4.jpeg)](https://www.youtube.com/watch?v=35mFhoRb0BQ&list=PL3pX4NAc7vJt_j7S-AefxxefrotByyite)
+[![GO TO JOHN WEEKS DEV TUTORIAL VIDEOS](https://user-images.githubusercontent.com/108229029/203507483-ff8d6ef8-7e33-4223-a4a6-f9d734dde0f4.jpeg)](https://rumble.com/v1q1if1-laravel-9-and-vue-3-full-project-tailwind-css-pt-1.html)
 
 
 Come and check out my YOUTUBE channel for lots more tutorials -> https://www.youtube.com/@johnweeksdev
